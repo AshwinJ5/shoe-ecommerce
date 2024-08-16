@@ -1,0 +1,65 @@
+
+/* sidebar */
+.sideBarMain{
+    top: 0;
+    min-width: 14vw;
+    border-right:.5px black solid;
+    height: 100vh;
+    padding-left: 3rem;
+    position: fixed;
+    z-index: 1;
+    padding-top: 15vh;
+    
+}
+.sideBarMain div label {
+    margin-left: 10px;
+}
+.sideBarMain .filter .price, .sideBarMain .filter .color {
+    margin-top: 2rem;
+}
+.mainHeading{
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+/* Items */
+.itemsMain{
+    position: absolute;
+    padding-left: 15vw;
+    padding-top: 15vh;
+}
+.recomendationsHeading{
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+.recomendations span label{
+    margin-right: 10px;
+    margin-left: 3px;
+}
+/* All Products */
+.allProductsMain .row div {
+    overflow: hidden;
+    cursor: pointer;
+}
+.allProductsMain .row div a img{
+    padding: 1rem 1rem 0 1rem;
+    width: 100%;
+}
+
+.allProductsMain .row div:hover img{
+    scale: 1.12;
+    transition: linear .3s;
+}
+.allProductsMain .row div .card{
+    min-height: 21.5rem;
+    align-content:space-between ;
+}
+.cardBody{
+align-content: space-around;
+}
+/* .navbarMainDiv{
+    z-index: 3;
+    top: 0;
+} */
+
+/* cart */

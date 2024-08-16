@@ -1,0 +1,402 @@
+[
+    {
+        "name":"Adidas Men's Lite Racer Adapt 5.0 Running Shoe",
+        "imageLink":"https://m.media-amazon.com/images/I/71EQ1QdcPFL._AC_SX695_.jpg",
+        "brand":"adidas",
+        "price":"66",
+        "priced":"1",
+        "color":"black",
+        "type":"running",
+        "id":1,
+        "about":{
+            "one":"Men's running-inspired shoes for lightweight comfort",
+            "two":"CUSHIONED MIDSOLE: Cloudfoam midsole for step-in comfort and superior cushioning",
+            "three":"FLEXIBLE UPPER: Soft textile upper is stretchy and comfortable",
+            "four":"SYNTHETIC OUTSOLE: A durable synthetic outsole provides traction",
+            "five":"MADE WITH RECYCLED CONTENT: Made with a series of recycled materials, this upper features at least 50% recycled content. This product represents just one of our solutions to help end plastic waste"
+
+        }
+
+    },
+    {
+        "name":"PUMA Men's Softride One4all Sneaker",
+        "imageLink":"https://m.media-amazon.com/images/I/8125OGAR1DL._AC_SX695_.jpg",
+        "brand":"puma",
+        "price":"66",
+        "priced":"1",
+        "color":"grey",
+        "type":"sneaker",
+        "id":2 ,
+        "about":{
+            "one":"REVAMPED DESIGN: One4all, all for one: every detail on these shoes conspires to make your run a little bit more fun. From Softride and SoftFoam+ technology to cushion your feet to the special lacing system, it's all geared towards comfort on the go.",
+            "two":"ENHANCED TECHNOLOGY: Utilizes PUMA's SoftFoam+, a step-in comfort sockliner designed to provide soft cushioning thanks to its extra thick heel.",
+            "three":"PERFORMANCE-DRIVEN: Utilizes PUMA's Softride EVA tech, our softest foam providing extreme cushioning and all-day comfort.",
+            "four":"ENHANCED VENTILATION: Features a breathable, mesh upper.",
+            "five":"FOREVER BETTER: PUMA is always pushing to be better than we were yesterday. FOREVER BETTER is our commitment to reduce our environmental impact and work together towards a sustainable future. The shoe's upper is made with recycled material"
+        }
+    },
+    {
+        "name":"Reebok Men's Classic Nylon Sneaker",
+        "imageLink":"https://m.media-amazon.com/images/I/61qdiYZBxaL._AC_SY695_.jpg",
+        "brand":"reebok",
+        "price":"79",
+        "priced":"2",
+        "color":"blue",
+        "type":"sneaker",
+        "id":3 ,
+        "about":{
+            "one":"Men's Sneakers with Signature Style: Featuring a comfortable and supportive synthetic upper with a classic leather look, all these men's fashion sneakers are missing is your fierce game face",
+            "two":"Durable and Efficient Tennis Shoes for Men: These stylish sneakers for men feature a lightweight yet supportive die-cut EVA midsole designed to withstand many strolls and jogs",
+            "three":"Walking Shoes with Comfort and Style: These men's tennis shoes feature a low-top design that offers enhanced ankle mobility, so you can keep moving all day long; A padded foam sockliner adds extra cushion",
+            "four":"Traction in Mind: These shoes feature highly abrasion-resistant rubber outsoles for durable responsiveness, so you can move with confidence",
+            "five":"High Performance: Ideal for walking and jogging as well as casual daily wear, these shoes always look and feel great regardless of where life takes you"
+        }
+    },
+    
+
+    {
+        "name":"Adidas Men's Response Running Shoe",
+        "imageLink":"https://m.media-amazon.com/images/I/81Ar8KjGSyL._AC_SX695_.jpg",
+        "brand":"adidas",
+        "price":"52",
+        "priced":"1",
+        "color":"grey",
+        "type":"running",
+        "id":4 ,
+        "about":{
+            "one":"Men's running shoes for getting your daily miles",
+            "two":"FLEXIBLE UPPER: Soft textile upper is stretchy and comfortable",
+            "three":"LIGHTWEIGHT CUSHIONING: EVA midsole offers step-absorbing, durable comfort",
+            "four":"RUBBER OUTSOLE: The rubber outsole provides outstanding grip and a sleek, low-profile look",
+            "five":"MADE IN PART WITH RECYCLED CONTENT: This product features at least 20% recycled materials. By reusing materials that have already been created, we help to reduce waste and our reliance on finite resources and reduce the footprint of the products we make"
+        }
+    },
+    {
+        "name":"Nike Men's Sneaker",
+        "imageLink":"https://m.media-amazon.com/images/I/71N5yUjzxeL._AC_SY695_.jpg",
+        "brand":"nike",
+        "price":"54",
+        "priced":"1",
+        "color":"grey",
+        "type":"sneaker",
+        "id":5 ,
+        "about":{
+            "one":"Running shoes for asphalt - Men",
+            "two":"Care instructions-Machine Wash"
+        }
+    },
+    {
+        "name":"Reebok Unisex-Adult Nano X4 Sneaker",
+        "imageLink":"https://m.media-amazon.com/images/I/71OCSMh92FL._AC_SY695_.jpg",
+        "brand":"reebok",
+        "price":"116",
+        "priced":"2",
+        "color":"green",
+        "type":"running",
+        "id":6 ,
+        "about":{
+            "one":"Versatile Workout Shoes: Our combination training shoes & running shoes take your workout to the next level with a Lift and Run Chassis system; A dome-shaped heel piece compresses under load for a stable platform then softens when you push off to run",
+            "two":"Soft and Durable Upper: These sneakers for men and women feature a Flexweave knit upper that's breathable yet durable enough for tough training sessions, with integrated support for stable multidirectional movement",
+            "three":"Responsive and Flexible Men's and Women's Athletic Shoes: Floatride Energy Foam provides lightweight, responsive cushioning while maintaining the stability of these men's and women's training shoes, making running the easiest part of working out",
+            "four":"Reliable Traction: Featuring a durable rubber outsole, these athletic shoes for everyone allow you to train anywhere in any weather",
+            "five":"Stylish, Supportive Build: The ultra-stylish design and supportive structure of these lightweight workout shoes help you crush your workout goals and feel good about what you're wearing too"
+        }
+    },
+    {
+        "name":"Adidas men's Terrex Swift R3 Sneaker",
+        "imageLink":"https://m.media-amazon.com/images/I/712LiOQV5jL._AC_SX695_.jpg",
+        "brand":"adidas",
+        "price":"79",
+        "priced":"2",
+        "color":"black",
+        "type":"sneaker",
+        "id":7 ,
+        "about":{
+            "one":"Continental Rubber outsole",
+            "two":"EVA midsole",
+            "three":"Textile and synthetic upper with a lace-up style and heel pull tab",
+            "four":"External heel clip"
+        }
+    },
+    {
+        "name":"Reebok Men's Club MEMT Sneaker",
+        "imageLink":"https://m.media-amazon.com/images/I/714tJZOR+dL._AC_SX695_.jpg",
+        "brand":"reebok",
+        "price":"50",
+        "priced":"1",
+        "color":"black",
+        "type":"running",
+        "id":8 ,
+        "about":{
+            "one":"Men's Fashion Sneakers: Complete with classic Reebok logos and a clean, casual design, our fashion sneakers for men are a must-have addition to any modern, low-key look",
+            "two":"Premium Construction: Ideal for daily wear, our men's tennis shoes offer unmatched style and a durable rubber sole for support that’s designed to last",
+            "three":"Superior Performance: These comfortable shoes for men offer the perfect blend of style and performance via a soft yet supportive upper and underfoot cushioning",
+            "four":"Relaxed Style, All-Day Comfort: Step into our casual shoes for men and experience unparalleled comfort and style; Designed for your busy lifestyle, these shoes effortlessly transition from work to weekend adventures",
+            "five":"Retro Chic with a Modern Twist: Our retro sneakers for men capture the essence of classic designs while incorporating modern technology and materials; Embrace timeless fashion with a touch of contemporary flair"
+        }
+    },
+    {
+        "name":"Adidas Mens Ultraboost Light Running Shoes",
+        "imageLink":"https://m.media-amazon.com/images/I/71XYhE76dgL._AC_SX695_.jpg",
+        "brand":"adidas",
+        "price":"97",
+        "priced":"2",
+        "color":"blue",
+        "type":"running",
+        "id":9 ,
+        "about":{
+            "one":"Running shoes with responsive cushioning",
+            "two":"CAN'T STOP. WON'T STOP: The incredible energy return of adidas BOOST is created by fusing together energy capsules, giving you the power to keep your feet moving",
+            "three":"ADIDAS PRIMEKNIT: Foot-hugging upper that wraps the foot with a supportive fit to enhance movement",
+            "four":"BETTER RUBBER: Continental Better Rubber is an innovative, sustainable compound made from 70% natural rubber, 20% virgin rubber and 10% conventional rubber; Officially licensed Continental product",
+            "five":"PARLEY OCEAN PLASTIC: This shoe's upper is made with a high-performance yarn which contains at least 50% Parley Ocean Plastic — reimagined plastic waste, intercepted on remote islands, beaches, coastal communities preventing it from polluting our ocean."
+        }
+    },
+    {
+        "name":"Nike Men's Running Shoe",
+        "imageLink":"https://m.media-amazon.com/images/I/51SZMn4cQTL._AC_SY695_.jpg",
+        "brand":"nike",
+        "price":"55",
+        "priced":"1",
+        "color":"black",
+        "type":"running",
+        "id":10 ,
+        "about":{
+            "one":"Rubber sole",
+            "two":"Sole material- Rubber"
+        }
+    },
+    {
+        "name":"Adidas Men's Ultraboost 23 Running Shoe",
+        "imageLink":"https://m.media-amazon.com/images/I/51IlKg7sekL._AC_SY695_.jpg",
+        "brand":"adidas",
+        "price":"112",
+        "priced":"2",
+        "color":"green",
+        "type":"running",
+        "id":11 ,
+        "about":{
+            "one":"Continental Better Rubber outsole",
+            "two":"Lace closure",
+            "three":"Adidas PRIMEKNIT+ textile upper",
+            "four":"Textile lining",
+            "five":"Care instructions- Machine Wash"
+        }
+    },
+    {
+        "name":"Nike mens Pegasus 39 Road Running",
+        "imageLink":"https://m.media-amazon.com/images/I/51lTHeCcEZL._AC_SY695_.jpg",
+        "brand":"nike",
+        "price":"109",
+        "priced":"2",
+        "color":"black",
+        "type":"running",
+        "id":12 ,
+        "about":{
+            "one":"NIKE Men's Air Zoom Pegasus 39 Running Shoe",
+            "two":"Water Resistance Level : not_water_resistant",
+            "three":"NIKE MENS SHOES"
+        }
+    },
+    {
+        "name":"Adidas Men's Terrex Soulstride Trail Running Sneaker",
+        "imageLink":"https://m.media-amazon.com/images/I/61SW36B3rqL._AC_SY695_.jpg",
+        "brand":"adidas",
+        "price":"90",
+        "priced":"2",
+        "color":"red",
+        "type":"running",
+        "id":13 ,
+        "about":{
+            "one":"Men's outdoor shoes for trail running",
+            "two":"MESH UPPER: Mesh upper for breathability and light weight",
+            "three":"LIGHTWEIGHT CUSHIONING: EVA midsole offers step-absorbing, durable comfort",
+            "four":"TRAXION OUTSOLE: Traxion outsole maximizes grip in all directions with lugs designed for rugged terrain",
+            "five":"MADE IN PART WITH RECYCLED CONTENT: This product features at least 20% recycled materials. By reusing materials that have already been created, we help to reduce waste and our reliance on finite resources and reduce the footprint of the products we make"
+        }
+    },
+    {
+        "name":"Nike Men's Flex Control TR3 Sneaker",
+        "imageLink":"https://m.media-amazon.com/images/I/619LEg4GDkL._AC_SY695_.jpg",
+        "brand":"nike",
+        "price":"95",
+        "priced":"2",
+        "color":"blue",
+        "type":"sneaker",
+        "id":14 ,
+        "about":{
+            "one":"Mesh upper provides lightweight breathability. A durable overlay wraps from the midfoot around the heel for added support",
+            "two":"Segmented rubber outrigger on the forefoot of the sole gives you stability during side-to-side movements. Overlays above the outrigger add durability",
+            "three":"Nike Flex sole lets your foot move naturally. Textured rubber tread outlines the sole for durable traction and stability"
+        }
+    },
+    {
+        "name":"PUMA Men's Sneaker",
+        "imageLink":"https://m.media-amazon.com/images/I/51VVr3PFGIL._AC_SY695_.jpg",
+        "brand":"puma",
+        "price":"58",
+        "priced":"1",
+        "color":"red",
+        "type":"sneaker",
+        "id":15 ,
+        "about":{
+            "one":"Keep it cool and casual in the PUMA Suede Classic XXI featuring a classic lace-up style sneaker boasting all over suede detail and branding/logos throughout. Available in six suede color options.",
+            "two":"Leather- upper.",
+            "three":"Textile- lining.",
+            "four":"Synthetic- sole."
+        }
+    },
+
+    {
+        "name":"Nike Air Max 270 Mens Casual Running Shoes",
+        "imageLink":"https://m.media-amazon.com/images/I/61ndTuwms2L._AC_SX695_.jpg",
+        "brand":"nike",
+        "price":"189",
+        "priced":"3",
+        "color":"red",
+        "type":"running",
+        "id":16 ,
+        "about":{
+            "one":"Outer material- Synthetic Resin",
+            "two":"Sole material- Rubber",
+            "three":"Closure type- Lace-Up"
+        }
+    },
+
+    {
+        "name":"PUMA men's X-cell Nova Cross Trainer Sneaker",
+        "imageLink":"https://m.media-amazon.com/images/I/61bYn8Lkl2L._AC_SY695_.jpg",
+        "brand":"puma",
+        "price":"49",
+        "priced":"1",
+        "color":"black",
+        "type":"sneaker",
+        "id":17 ,
+        "about":{
+            "one":"ENHANCED TECHNOLOGY: Utilizes PUMA's SoftFoam+, a step-in comfort sockliner designed to provide soft cushioning thanks to its extra thick heel.",
+            "two":"EYE-CATCHING: Iconic PUMA Formstrip on the lateral sides and PUMA branding on the heel.",
+            "three":"COMFORT AND SUPPORT: Constructed utilizing a brand new visual and foam for optimal comfort.",
+            "four":"PERFORMANCE-DRIVEN: Features a breathable mesh upper and tabs on the ankle to help you slip them on and off with ease.",
+            "five":""
+        }
+    },
+    {
+        "name":"Reebok Unisex-Adult Nano X4 Sneaker",
+        "imageLink":"https://m.media-amazon.com/images/I/71Q4dZNSJsL._AC_SY695_.jpg",
+        "brand":"reebok",
+        "price":"139",
+        "priced":"3",
+        "color":"red",
+        "type":"sneaker",
+        "id":18 ,
+        "about":{
+            "one":"Unleash the Athlete Within: Workout the way you want - these versatile men's and women's athletic sneakers enable you to jump, climb, and workout with complete confidence",
+            "two":"Superior Comfort & Support: Designed to help you optimize your workouts, these comfortable gym shoes for men and women provide the lightweight, responsive cushioning of running shoes, while maintaining the performance and stability of training shoes",
+            "three":"Signature Style: With the sleek shape and ultra-stylish design of these workout shoes for men and women, you'll crush your workout goals and look good doing it",
+            "four":"Next-Level Performance: Our men's and women's athletic shoes are designed to help you conquer your fitness goals; Slip on a pair of our training sneakers for men and women and enjoy enhanced agility, speed, and endurance",
+            "five":"Move with Confidence: The perfect crossfit shoes for men and women, these training shoes are designed to handle cross-training sessions and intense workouts, from cardio and lifting to climbing and running"
+        }
+    },
+    {
+        "name":"PUMA Velocity 2.0",
+        "imageLink":"https://m.media-amazon.com/images/I/81WnUqypi7L._AC_SX695_.jpg",
+        "brand":"puma",
+        "price":"100",
+        "priced":"2",
+        "color":"blue",
+        "type":"running",
+        "id":19 ,
+        "about":{
+            "one":"HEAT-, OIL- & SLIP-RESISTANT OUTSOLE: The 572°F heat-resistant HRO rubber outsole is inspired by the latest running shoe technology. ",
+            "two":"COMPOSITE TOE CAP: The fiberglass reinforced composite toe cap offers more space for the toes, is lighter than a common steel cap, antimagnetic and thermally insulating.",
+            "three":"HIGH ENERGY RETURN: The intelligent midsole made of IMPULSE.FOAM reacts to every step with an energy impulse.",
+            "four":"SUPPORT & STABILITY: The TPU torsion control element in the middle of the sole supports the natural flexing action of the foot while walking and provides a better support and stability for the feet.",
+            "five":"ADDITIONAL FEATURES: Static dissipative, metal free, abrasion resistant toe overlay, heel support, quick lacing system."
+        }
+    },
+ 
+    {
+        "name":"Nike men's Running Shoes",
+        "imageLink":"https://m.media-amazon.com/images/I/51aJ2qB22gL._AC_SY695_.jpg",
+        "brand":"nike",
+        "price":"119",
+        "priced":"2",
+        "color":"blue",
+        "type":"running",
+        "id":20 ,
+        "about":{
+            "one":"Outer material: synthetic",
+            "two":"Heel Type:Flat",
+            "three":"Shoe width: Normal"
+        }
+    },
+ 
+    {
+        "name":"Nike men's Sneaker Low",
+        "imageLink":"https://m.media-amazon.com/images/I/71T1qkp9USL._AC_SX695_.jpg",
+        "brand":"nike",
+        "price":"76",
+        "priced":"2",
+        "color":"black",
+        "type":"sneaker",
+        "id":21 ,
+        "about":{
+            "one":"Sneakers - Men",
+            "two":"Outer material - Synthetic",
+            "three":"Sole material - Rubber"
+        }
+    },
+
+    {
+        "name":"Reebok Unisex-Adult Nano X3 Sneaker",
+        "imageLink":"https://m.media-amazon.com/images/I/716vioxjNuL._AC_SX695_.jpg",
+        "brand":"reebok",
+        "price":"149",
+        "priced":"3",
+        "color":"red",
+        "type":"sneaker",
+        "id":22 ,
+        "about":{
+            "one":"Versatile Workout Shoes: Our combination training shoes & running shoes take your workout to the next level with a Lift and Run Chassis system; A dome-shaped heel piece compresses under load for a stable platform then softens when you push off to run",
+            "two":"Soft and Durable Upper: These sneakers for men and women feature a Flexweave knit upper that's breathable yet durable enough for tough training sessions, with integrated support for stable multidirectional movement",
+            "three":"Responsive and Flexible Men's and Women's Athletic Shoes: Floatride Energy Foam provides lightweight, responsive cushioning while maintaining the stability of these men's and women's training shoes, making running the easiest part of working out",
+            "four":"Reliable Traction: Featuring a durable rubber outsole, these athletic shoes for everyone allow you to train anywhere in any weather",
+            "five":"Stylish, Supportive Build: The ultra-stylish design and supportive structure of these lightweight workout shoes help you crush your workout goals and feel good about what you're wearing too"
+        }
+    },
+    {
+        "name":"Adidas Men's Ultraboost 1.0 Running Shoe",
+        "imageLink":"https://m.media-amazon.com/images/I/51Wuzs76ZLL._AC_SX695_.jpg",
+        "brand":"adidas",
+        "price":"155",
+        "priced":"3",
+        "color":"black",
+        "type":"running",
+        "id":23 ,
+        "about":{
+            "one":"Men's running shoes for dominant performance and all-day comfort",
+            "two":"ADIDAS PRIMEKNIT: Foot-hugging upper that wraps the foot with a supportive fit to enhance movement",
+            "three":"STRETCHWEB WITH CONTINENTAL RUBBER OUTSOLE: Stretchweb outsole flexes naturally for an energized ride, and Continental Rubber gives you superior traction; Officially licensed Continental product",
+            "four":"CAN'T STOP. WON'T STOP: The incredible energy return of adidas BOOST is created by fusing together energy capsules, giving you the power to keep your feet moving",
+            "five":"FROM PROBLEM TO PERFORMANCE: This product is made with a yarn that features 50% recycled polyester and 50% Parley Ocean Plastic intercepted from remote islands, beaches, coastal communities and shorelines. In total, this product has 20% recycled content"
+        }
+    },
+    {
+        "name":"Adidas mens Ultraboost 1.0 Shoe",
+        "imageLink":"https://m.media-amazon.com/images/I/71y2YYBnXDL._AC_SX695_.jpg",
+        "brand":"adidas",
+        "price":"96",
+        "priced":"2",
+        "color":"green",
+        "type":"sneaker",
+        "id":24 ,
+        "about":{
+            "one":"adidas mens Sneaker",
+            "two":"Lace closure",
+            "three":"Fitcounter moulded heel counter",
+            "four":"BOOST midsole",
+            "five":"Stretchweb outsole with Continental Rubber"
+        }
+    }
+
+]
